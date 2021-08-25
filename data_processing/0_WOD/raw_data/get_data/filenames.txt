@@ -1,0 +1,13 @@
+ https://www.ncei.noaa.gov/access/world-ocean-database-select/OCLdb_output/ocldb1616442724.15098_OSD.nc.gz    
+ https://www.ncei.noaa.gov/access/world-ocean-database-select/OCLdb_output/ocldb1616442724.15098_CTD.nc.gz    
+ https://www.ncei.noaa.gov/access/world-ocean-database-select/OCLdb_output/ocldb1616442724.15098_XBT.nc.gz    
+ https://www.ncei.noaa.gov/access/world-ocean-database-select/OCLdb_output/ocldb1616442724.15098_XBT2.nc.gz    
+ https://www.ncei.noaa.gov/access/world-ocean-database-select/OCLdb_output/ocldb1616442724.15098_MBT.nc.gz    
+ https://www.ncei.noaa.gov/access/world-ocean-database-select/OCLdb_output/ocldb1616442724.15098_PFL.nc.gz    
+ https://www.ncei.noaa.gov/access/world-ocean-database-select/OCLdb_output/ocldb1616442724.15098_PFL2.nc.gz    
+ https://www.ncei.noaa.gov/access/world-ocean-database-select/OCLdb_output/ocldb1616442724.15098_DRB.nc.gz    
+ https://www.ncei.noaa.gov/access/world-ocean-database-select/OCLdb_output/ocldb1616442724.15098_MRB.nc.gz    
+ https://www.ncei.noaa.gov/access/world-ocean-database-select/OCLdb_output/ocldb1616442724.15098_UOR.nc.gz    
+ https://www.ncei.noaa.gov/access/world-ocean-database-select/OCLdb_output/ocldb1616442724.15098_SUR.nc.gz    
+ https://www.ncei.noaa.gov/access/world-ocean-database-select/OCLdb_output/ocldb1616442724.15098_GLD.nc.gz    
+ 
