@@ -1,9 +1,8 @@
 #!/bin/bash
 
-# this script pulls quarterly updates for WOD in single .nc casts then interpolates to a standard depth grid and concats them
-# default is single casts
+# # this script pulls quarterly updates for WOD 
 
-# dwnld_path="latest" # change this to WODXX for published releases where XX is the year 20XX.
+# dwnld_path="individual" 
 
 # # ============== do not change below this line ================#
 
@@ -33,7 +32,7 @@
 #   echo "======================================================================"
 
 
-# done < "$file"
+# # done < "$file"
 
 #concatenate
 module load anaconda3
@@ -43,3 +42,4 @@ python get_data/concat_and_process.py
 
 conda deactivate
 echo "Concatenation complete."
+
